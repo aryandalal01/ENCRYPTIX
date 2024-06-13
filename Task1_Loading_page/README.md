@@ -1,6 +1,6 @@
 LINK:https://loadingpagetut.netlify.app/
 
-![Uploading Screenshot 2024-06-13 004222.png…]()
+
 
 A landing page is an ideal web development project for beginners. It 
 requires basic knowledge of HTML and CSS. Through this project, you'll learn 
